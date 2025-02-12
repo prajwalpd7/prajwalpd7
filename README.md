@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **web3 and blockchain**
 
-- 📝 I regularly write articles on [prajwalsblog.hashnode.dev](prajwalsblog.hashnode.dev)
+- 📝 I regularly write articles on [prajwalsblog.hashnode.dev](https://prajwalsblog.hashnode.dev/)
 
 - 💬 Ask me about **Python, web, Linux;**
 
